@@ -7,3 +7,5 @@ This data set is taken from a local clothing store's website which is planning t
 
 The data set is cleaned, filtered and sorted in MS Excel and an interactive dashboard is created with some charts that are enough to explain the change in patterns and behaviours. These charts have been linked to each other through slicers so that the figures caould be easily analyzed for each element.
 
+The report contains individual sheets for each chart to explain the procedure carried out for them.  
+
